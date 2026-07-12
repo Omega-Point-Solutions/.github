@@ -70,13 +70,13 @@
 
 | Product | Capability | |
 |---|---|---|
-| **FraudTrax** | AI fraud investigation for law enforcement — plate/title/check/ID fraud, cross-agency intel | [repo](https://github.com/hatchet11/FraudTrax-public) · [live](https://fraudtrax.net) |
-| **SVT** | Real-time multi-agency **Stolen Vehicle Tracking** & coordination | [repo](https://github.com/hatchet11/SVT-public) · [live](https://svt.fraudtrax.net) |
-| **Hatchet Trace** | OSINT intelligence & alerting for theft, threat, and cold-case investigations | [repo](https://github.com/hatchet11/Hatchet-Trace-public) · [live](https://trace.fraudtrax.net) |
-| **DAN-O** | Sovereign **RAG AI engine** powering the suite — on-prem / edge, no third-party model calls | [repo](https://github.com/hatchet11/dano-desk-public) |
-| **Omega Guard** | Verified-business trust marks & clone-site / impersonation protection | [repo](https://github.com/hatchet11/omega-guard-public) · [live](https://guard.omegapointsolutions.com) |
-| **Omega Lens** | Sovereign **deepfake & synthetic-media** recognition + context restoration | [repo](https://github.com/hatchet11/omega-lens-public) |
-| **Threat ID** | Bad-actor registry & shared threat feed | [repo](https://github.com/hatchet11/threat-id-site) |
+| **FraudTrax** | AI fraud investigation for law enforcement — plate/title/check/ID fraud, cross-agency intel | [repo](https://github.com/Omega-Point-Solutions/FraudTrax-public) · [live](https://fraudtrax.net) |
+| **SVT** | Real-time multi-agency **Stolen Vehicle Tracking** & coordination | [repo](https://github.com/Omega-Point-Solutions/SVT-public) · [live](https://svt.fraudtrax.net) |
+| **Hatchet Trace** | OSINT intelligence & alerting for theft, threat, and cold-case investigations | [repo](https://github.com/Omega-Point-Solutions/Hatchet-Trace-public) · [live](https://trace.fraudtrax.net) |
+| **DAN-O** | Sovereign **RAG AI engine** powering the suite — on-prem / edge, no third-party model calls | [repo](https://github.com/Omega-Point-Solutions/dano-desk-public) |
+| **Omega Guard** | Verified-business trust marks & clone-site / impersonation protection | [repo](https://github.com/Omega-Point-Solutions/omega-guard-public) · [live](https://guard.omegapointsolutions.com) |
+| **Omega Lens** | Sovereign **deepfake & synthetic-media** recognition + context restoration | [repo](https://github.com/Omega-Point-Solutions/omega-lens-public) |
+| **Threat ID** | Bad-actor registry & shared threat feed | [repo](https://github.com/Omega-Point-Solutions/threat-id-site) |
 
 > **ODIN** — a predictive early-warning engine (**USPTO provisional patent filed**) — powers cross-product case linkage.
 
