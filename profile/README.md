@@ -130,7 +130,7 @@ const founder: Principal = {
   name:      "Cody A. Rose",
   role:      "Founder, Owner & Principal — Omega Point Solutions LLC",
   military:  "U.S. Army Ranger · Sergeant First Class (E-7) · Iraq & Afghanistan combat veteran",
-  service:   ["Law enforcement investigator", "SWAT / WMD Asst. team leader", "County Board member"],
+  service:   ["Law enforcement investigator", "SWAT Asst. team leader", "County Board member"],
   clearance: "Eligible",
   focus:     [
     "Sovereign, on-prem AI for public safety",
