@@ -1,3 +1,8 @@
+<!-- ============ LOGO ============ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/omega-point-logo.png" width="240" alt="Omega Point Solutions"/>
+</p>
+
 <!-- ============ HERO ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:22d3ee,100:818cf8&height=180&section=header&text=Omega%20Point%20Solutions%20LLC&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Veteran-led%20public-safety%20%C2%B7%20fraud%20%C2%B7%20intelligence%20%C2%B7%20cybersecurity%20software&descSize=16&descAlignY=58" alt="Omega Point Solutions"/>
