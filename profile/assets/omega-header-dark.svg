@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Omega Point Solutions LLC">
+  <defs>
+    <!-- Duotone field: the two brand accents bled in from opposite corners, kept
+         well below full strength so the mark stays the brightest thing present. -->
+    <radialGradient id="glowA" cx="18%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".20"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="86%" cy="76%" r="60%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#22d3ee" stop-opacity=".55"/>
+      <stop offset="55%" stop-color="#818cf8" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="markStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="#070d15"/>
+  <rect width="1280" height="320" fill="url(#glowA)"/>
+  <rect width="1280" height="320" fill="url(#glowB)"/>
+
+  <!-- The mark: an omega whose centre carries a single point. -->
+  <g transform="translate(112 30) scale(0.86)" fill="none" stroke="url(#markStroke)"
+     stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66.6 169.8 A52 52 0 1 1 133.4 169.8"/>
+    <path d="M66.6 169.8 C60 184 54 192 44 196 L78 196"/>
+    <path d="M133.4 169.8 C140 184 146 192 156 196 L122 196"/>
+  </g>
+  <circle cx="208" cy="142" r="9" fill="#22d3ee"/>
+
+  <!-- Hairline rule, weighted left, fading out rather than stopping. -->
+  <rect x="112" y="268" width="1056" height="1" fill="url(#rule)"/>
+</svg>
