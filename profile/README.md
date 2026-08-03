@@ -54,6 +54,7 @@ Not affiliated with Omega Point (financial analytics), Omega Systems (managed IT
 | **Omega Guard** | Verified-business trust marks and clone-site protection | [repo](https://github.com/Omega-Point-Solutions/omega-guard-public) · [live](https://guard.omegapointsolutions.com) |
 | **Omega Lens** | Sovereign deepfake and synthetic-media recognition, with context restoration | [repo](https://github.com/Omega-Point-Solutions/omega-lens-public) |
 | **Threat ID** | Bad-actor registry and shared threat feed | [repo](https://github.com/Omega-Point-Solutions/threat-id-site) |
+| **Ice Breaker** | Cold-case analysis and investigative case management — source-cited leads, sovereign AI | [repo](https://github.com/Omega-Point-Solutions/icebreaker-public) · [live](https://fraudtrax.net/icebreaker) |
 
 **ODIN**, a predictive early-warning engine with a USPTO provisional patent filed, powers cross-product case linkage.
 
