@@ -22,8 +22,8 @@ Not affiliated with Omega Point (financial analytics), Omega Systems (managed IT
 |---|---|
 | **Entity** | Omega Point Solutions LLC (Illinois) |
 | **SAM.gov** | UEI `U95HZTS97YK8` · CAGE `225D1` |
-| **Small business** | Veteran-Owned Small Business. SDVOSB certification submitted to SBA VetCert and pending review. |
-| **Compliance** | Section 889-clean · sovereign and on-premises deployable · no foreign-adversary components |
+| **Small business** | **SBA VetCert–certified SDVOSB** (Service-Disabled Veteran-Owned Small Business), certified July 2026. |
+| **Compliance** | Section 889-clean · sovereign and on-premises deployable · no foreign-adversary components · see Security & Compliance Posture below |
 | **Primary NAICS** | `541511` — Custom Computer Programming Services |
 | **Additional NAICS** | `541512` · `541519` · `518210` · `513210` · `541690` · `541618` · `561621` · `561611` |
 
@@ -56,6 +56,27 @@ Not affiliated with Omega Point (financial analytics), Omega Systems (managed IT
 | **Threat ID** | Bad-actor registry and shared threat feed | [repo](https://github.com/Omega-Point-Solutions/threat-id-site) |
 
 **ODIN**, a predictive early-warning engine with a USPTO provisional patent filed, powers cross-product case linkage.
+
+---
+
+## Security & Compliance Posture
+
+*Updated August 2026. We publish where we actually are — held certifications, work in progress, and what remains — so agencies can evaluate us without a discovery call.*
+
+**Held today**
+- **SBA VetCert SDVOSB certification** (July 2026).
+- **Section 889 compliance**, self-represented in SAM.gov — no covered telecommunications or foreign-adversary components anywhere in the stack.
+- **Adopted ISMS**: 11 governing security policies (information security, access control, incident response, business continuity/DR, encryption and key management, vendor risk, and more), a full ISO/IEC 27001:2022 Statement of Applicability across all 93 Annex A controls, a maintained risk register, and a quarterly internal-audit and management-review program that has already run its first internal audit.
+- **Operating controls with evidence**: centralized, immutable audit logging with 365-day retention lock; individual user accountability cryptographically bound into the CJI-relevant audit trail; multi-factor authentication enforced for administrators and paid tiers; nightly encrypted backups with **verified restore drills passed on every production database**; WAF posture managed as code with drift detection; daily automated control attestation.
+
+**In progress**
+- **SOC 2 Type II** — the evidence/observation window opened July 2026; independent CPA examination planned at window maturity. Remaining before the exam: an external penetration test, completion of vendor-attestation collection, and the CPA engagement itself.
+- **ISO/IEC 27001:2022** — controls are implemented and evidenced against the standard; certification-body engagement follows the SOC 2 examination.
+
+**CJIS — stated plainly**
+Our law-enforcement products are **architected to align with the CJIS Security Policy (v6.0)**: individual accountability, advanced authentication, encrypted storage and transit, and a tamper-evident audit trail. **We do not claim CJIS certification — no cloud vendor can.** CJIS authorization is determined per deployment by the agency and its CJIS Systems Agency; we execute the **CJIS Security Addendum** with each customer agency and support the agency's own personnel-screening and authorization process. Officer-user vetting is verified at signup (agency email + supervisor attestation), with screening remaining the employing agency's authority.
+
+Questions, or need our security-questionnaire pre-fill: [crose@omegapointsolutions.com](mailto:crose@omegapointsolutions.com).
 
 ---
 
