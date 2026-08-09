@@ -1,4 +1,4 @@
-<p align="center"><img alt="Omega Point Solutions LLC" src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/omega-point-logo.png" width="220"></p>
+<p align="center"><img alt="Omega Point Solutions LLC — sovereign AI, law enforcement, intelligence" src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/banner.jpg" width="1280"></p>
 
 # Omega Point Solutions LLC
 
@@ -42,16 +42,16 @@ Not affiliated with Omega Point (financial analytics), Omega Systems (managed IT
 
 ## Products
 
-| Product | Capability |  |
-|---|---|---|
-| **FraudTrax** | Fraud investigation for law enforcement — plate, title, check and identity fraud, with cross-agency intelligence | [repo](https://github.com/Omega-Point-Solutions/FraudTrax-public) · [live](https://fraudtrax.net) |
-| **SVT** | Real-time multi-agency stolen-vehicle tracking and coordination | [repo](https://github.com/Omega-Point-Solutions/SVT-public) · [live](https://svt.fraudtrax.net) |
-| **Hatchet Trace** | OSINT intelligence and alerting for theft, threat, and cold-case investigation | [repo](https://github.com/Omega-Point-Solutions/Hatchet-Trace-public) · [live](https://trace.fraudtrax.net) |
-| **DAN-O** | Sovereign retrieval engine powering the suite, on-premises or at the edge, with no third-party model calls | [repo](https://github.com/Omega-Point-Solutions/dano-desk-public) |
-| **Omega Guard** | Verified-business trust marks and clone-site protection | [repo](https://github.com/Omega-Point-Solutions/omega-guard-public) · [live](https://guard.omegapointsolutions.com) |
-| **Omega Lens** | Sovereign deepfake and synthetic-media recognition, with context restoration | [repo](https://github.com/Omega-Point-Solutions/omega-lens-public) |
-| **Threat ID** | Bad-actor registry and shared threat feed | [repo](https://github.com/Omega-Point-Solutions/threat-id-site) |
-| **Ice Breaker** | Cold-case analysis and investigative case management — source-cited leads, sovereign AI | [repo](https://github.com/Omega-Point-Solutions/icebreaker-public) · [live](https://fraudtrax.net/icebreaker) |
+|  | Product | Capability |  |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-fraudtrax.png" alt="" width="56"> | **FraudTrax** | Fraud investigation for law enforcement — plate, title, check and identity fraud, with cross-agency intelligence | [repo](https://github.com/Omega-Point-Solutions/FraudTrax-public) · [live](https://fraudtrax.net) |
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-svt.png" alt="" width="56"> | **SVT** | Real-time multi-agency stolen-vehicle tracking and coordination | [repo](https://github.com/Omega-Point-Solutions/SVT-public) · [live](https://svt.fraudtrax.net) |
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-hatchet-trace.png" alt="" width="56"> | **Hatchet Trace** | OSINT intelligence and alerting for theft, threat, and cold-case investigation | [repo](https://github.com/Omega-Point-Solutions/Hatchet-Trace-public) · [live](https://trace.fraudtrax.net) |
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-dano.png" alt="" width="56"> | **DAN-O** | Sovereign retrieval engine powering the suite, on-premises or at the edge, with no third-party model calls | [repo](https://github.com/Omega-Point-Solutions/dano-desk-public) |
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-omega-guard.png" alt="" width="56"> | **Omega Guard** | Verified-business trust marks and clone-site protection | [repo](https://github.com/Omega-Point-Solutions/omega-guard-public) · [live](https://guard.omegapointsolutions.com) |
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-omega-lens.png" alt="" width="56"> | **Omega Lens** | Sovereign deepfake and synthetic-media recognition, with context restoration | [repo](https://github.com/Omega-Point-Solutions/omega-lens-public) |
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-threat-id.png" alt="" width="56"> | **Threat ID** | Bad-actor registry and shared threat feed | [repo](https://github.com/Omega-Point-Solutions/threat-id-site) |
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-ice-breaker.png" alt="" width="56"> | **Ice Breaker** | Cold-case analysis and investigative case management — source-cited leads, sovereign AI | [repo](https://github.com/Omega-Point-Solutions/icebreaker-public) · [live](https://fraudtrax.net/icebreaker) |
 
 **ODIN**, a predictive early-warning engine with a USPTO provisional patent filed, powers cross-product case linkage.
 
