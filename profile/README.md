@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/omega-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/omega-header-light.svg">
-  <img alt="Omega Point Solutions LLC" src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/omega-header-dark.svg" width="100%">
-</picture>
+<p align="center"><img alt="Omega Point Solutions LLC" src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/omega-point-logo.png" width="220"></p>
 
 # Omega Point Solutions LLC
 
