@@ -73,9 +73,12 @@ criminal justice information, and no personal information appears in any image.*
 
 ### SVT — stolen vehicle tracking
 
-| Coordinator dashboard | Tiered activation queue |
-|---|---|
-| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-dashboard.png" alt="SVT 60-day operational dashboard" width="420"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-tiered-queue.png" alt="SVT vehicles grouped by tracking tier" width="420"> |
+| Coordinator dashboard | Activation queue | Tiered view |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-dashboard.png" alt="SVT 60-day operational dashboard" width="280"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-activation-queue.png" alt="SVT activation queue grouped by telematics provider call group" width="280"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-tiered-queue.png" alt="SVT vehicles grouped by tracking tier" width="280"> |
+
+Vehicles in the activation queue are grouped by telematics provider phone number, so one call clears
+the whole group instead of one vehicle at a time.
 
 ### Hatchet Trace — OSINT intelligence
 
