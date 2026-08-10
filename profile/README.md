@@ -59,6 +59,32 @@ Not affiliated with Omega Point (financial analytics), Omega Systems (managed IT
 
 ---
 
+## Product Screenshots
+
+Live product interfaces. Every screenshot is captured against a demonstration environment seeded with
+invented data — fictional agency, `.example` domains, `DEMO`-prefixed VINs. **No real case data, no
+criminal justice information, and no personal information appears in any image.**
+
+### FraudTrax — fraud investigation
+
+| Theft indicator scan | Case management |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/fraudtrax-theft-scan.png" alt="FraudTrax theft indicator scan" width="420"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/fraudtrax-case-management.png" alt="FraudTrax case management with audit timeline" width="420"> |
+
+### SVT — stolen vehicle tracking
+
+| Coordinator dashboard | Tiered activation queue |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-dashboard.png" alt="SVT 60-day operational dashboard" width="420"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-tiered-queue.png" alt="SVT vehicles grouped by tracking tier" width="420"> |
+
+### Hatchet Trace — OSINT intelligence
+
+| Investigator dashboard | Scored results |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/hatchet-trace-dashboard.png" alt="Hatchet Trace investigator dashboard" width="420"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/hatchet-trace-scan-results.png" alt="Hatchet Trace scored OSINT results" width="420"> |
+
+---
+
 ## Security & Compliance Posture
 
 *Updated August 2026. We publish where we actually are — held certifications, work in progress, and what remains — so agencies can evaluate us without a discovery call.*
