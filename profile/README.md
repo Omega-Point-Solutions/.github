@@ -19,6 +19,7 @@ Not affiliated with Omega Point (financial analytics), Omega Systems (managed IT
 | **Entity** | Omega Point Solutions LLC (Illinois) |
 | **SAM.gov** | UEI `U95HZTS97YK8` · CAGE `225D1` |
 | **D-U-N-S** | `146814782` |
+| **Illinois GATA** | Grantee ID `711130` (grants.illinois.gov) |
 | **Small business** | **SBA VetCert–certified SDVOSB** (Service-Disabled Veteran-Owned Small Business), certified July 2026. |
 | **Compliance** | Section 889-clean · sovereign and on-premises deployable · no foreign-adversary components · see Security & Compliance Posture below |
 | **Primary NAICS** | `541511` — Custom Computer Programming Services |
